@@ -112,7 +112,7 @@ app.get('/files/:id', (req, res) => {
     if (!fs.existsSync(abs)) return res.status(404).send('File missing');
 
     res.setHeader('Content-Type', 'application/pdf');
-    res.setHeader('Content-Disposition', 'inline; filename="document.pdf"`);
+    res.setHeader('Content-Disposition', 'inline; filename="document.pdf"');
     fs.createReadStream(abs).pipe(res);
   }catch(e){
     res.status(500).send('Server error');
