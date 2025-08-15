@@ -1,0 +1,34 @@
+services:
+  - type: web
+    name: dashboard-panel-main
+    env: node
+    plan: starter
+    region: frankfurt
+    buildCommand: "npm install"
+    startCommand: "node backend.server.js"
+    rootDir: "dashboard-panel-main"
+    envVars:
+      - key: STORAGE_DIR
+        value: /data/edocs
+      - key: SELF_BASE_URL
+        sync: false
+      - key: PORT
+        value: "10000"
+    disk:
+      name: edocs-storage
+      mountPath: /data/edocs
+      sizeGB: 5
+
+  - type: web
+    name: rajhi
+    env: node
+    plan: starter
+    region: frankfurt
+    buildCommand: "npm install"
+    startCommand: "node backend.server.js"
+    rootDir: "rajhi"
+    envVars:
+      - key: DASHBOARD_BASE_URL
+        sync: false
+      - key: PORT
+        value: "10000"

@@ -1,0 +1,571 @@
+<div id="__next" data-currency-processed="true">
+    <div class="__variable_5ca7d5 __variable_1252ba __variable_7ae841 arb-font-body rtl:arb-font-arabic arb-bg-[rgba(246,251,255,1)]" dir="rtl" data-currency-processed="true">
+      <div class="prod-mode" data-currency-processed="true">
+        <!--$-->
+        <header style="--opacity: 1; transform: none" id="header" class="arb-header arb-max-h-[7.625rem] arb-h-full arb-bg-transparent arb-full-bleed-container arb-sticky arb-top-0 arb-z-20 arb-w-full sm:arb-px-0 -arb-mt-[7.625rem]" data-currency-processed="true">
+          <!--$--><!--$--><!--/$--><!--$--><!--/$--><!--/$-->
+          <div class="arb-header-contents arb-w-full arb-px-xxxs lg:arb-px-content-padding" data-currency-processed="true">
+            <div class="arb-items-center arb-justify-between arb-flex-nowrap arb-border-b arb-border-[rgba(0,0,0,0.05)] arb-py-xxxs arb-h-l arb-text-xs arb-flex" data-currency-processed="true">
+              <a target="" href="https://www.alrajhibank.com.sa/Personal/Financing-and-Savings-products-for-individuals" data-currency-processed="true">قواعد الافصاح عن أسعار المنتجات التمويلية
+              </a>
+              <div class="max-sm:arb-hidden" data-currency-processed="true">
+                <nav class="arb-secondary-nav-group" data-currency-processed="true">
+                  <ul class="arb-list-none arb-flex md:arb-gap-m arb-gap-s" data-currency-processed="true">
+                    <li class="" data-currency-processed="true">
+                      <a target="" href="https://www.alrajhibank.com.sa/About-alrajhi-bank/Media-Center" data-currency-processed="true">المركز الاعلامي</a>
+                    </li>
+                    <li class="" data-currency-processed="true">
+                      <a target="" href="https://www.alrajhibank.com.sa/forms/submit-your-request" data-currency-processed="true">المساعدة والدعم</a>
+                    </li>
+                  </ul>
+                </nav>
+              </div>
+            </div>
+            <div class="arb-py-xs arb-flex arb-justify-between arb-items-center lg:arb-gap-l arb-gap-0 arb-min-w-full" data-currency-processed="true">
+              <div class="arb-flex lg:arb-gap-m md:arb-gap-xs sm:arb-gap-l arb-gap-s arb-items-center" data-currency-processed="true">
+                <button class="arb-btn arb-btn-md arb-btn-square max-md:arb-inline-flex arb-btn arb-btn-ghost arb-btn-square max-sm:!arb-p-[unset] arb-hidden" tabindex="0" aria-label="Show Menu" data-currency-processed="true">
+                  <span aria-label="" class="arb-font-icon arb-text-3xl arb-icon-sideBar1 rtl:-arb-scale-x-100" data-currency-processed="true"></span><span class="arb-sr-only" data-currency-processed="true">Show
+                    Menu</span></button><button class="arb-btn arb-btn-md arb-btn-square !arb-p-0 max-sm:hidden xl:arb-hidden lg:arb-inline-flex md:arb-inline-flex arb-btn arb-btn-ghost arb-btn-square arb-hidden" tabindex="0" aria-label="Show Menu" data-currency-processed="true">
+                  <span aria-label="" class="arb-font-icon arb-text-3xl arb-icon-sideBar1 rtl:-arb-scale-x-100" data-currency-processed="true"></span><span class="arb-sr-only" data-currency-processed="true">Show
+                    Menu</span>
+                </button>
+                <div class="arb-flex arb-justify-center arb-items-center md:arb-relative arb-absolute md:arb-left-0 arb-left-1/2 md:arb-translate-x-0 -arb-translate-x-1/2 arb-z-10" data-currency-processed="true">
+                  <h1 class="arb-logo lg:arb-scale-100 md:arb-scale-90 arb-ml-l" data-currency-processed="true">
+                    <a target="" href="https://www.alrajhibank.com.sa/" data-currency-processed="true"><img alt="" loading="lazy" width="100" height="100" decoding="async" data-nimg="1" src="https://www.alrajhibank.com.sa/img/logo.svg" style="color: transparent" data-currency-processed="true"></a>
+                  </h1>
+                </div>
+                <div class="arb-hidden md:arb-block lg:arb-scale-100 md:arb-scale-95" data-currency-processed="true">
+                  <nav class="arb-flex arb-gap-0.5 arb-min-h-[2.5625rem] arb-rounded-full arb-p-0.5 arb-bg-[rgba(28,27,84,0.08)]" data-currency-processed="true">
+                    <a target="" class="arb-btn arb-btn-md arb-w-fit arb-rounded-full arb-btn--active-nav-pill arb-h-[2.32rem] arb-min-h-[2.32rem] arb-border-none" href="https://www.alrajhibank.com.sa/Personal" data-currency-processed="true">الأفراد</a><a target="" class="arb-btn arb-btn-md arb-btn-ghost arb-w-fit arb-rounded-full arb-h-[2.32rem] arb-min-h-[2.32rem] arb-border-none" href="https://www.alrajhibank.com.sa/Business" data-currency-processed="true">الأعمال</a>
+                  </nav>
+                </div>
+              </div>
+              <div class="arb-desktop-second-level-nav" data-currency-processed="true">
+                <nav class="arb-w-full xl:arb-block arb-hidden" data-currency-processed="true">
+                  <ul id="secondLevelNav" class="arb-list-none arb-flex arb-flex-1 arb-items-center arb-gap-xs arb-text-md arb-font-medium arb-flex-wrap" data-currency-processed="true">
+                    <li title="الحسابات" aria-label="الحسابات" class="arb-max-w-fit arb-relative arb-z-50 arb-text-center arb-flex-1 arb-overflow-hidden" data-currency-processed="true">
+                      <a target="" class="arb-block arb-w-full arb-text-center arb-truncate arb-whitespace-nowrap arb-overflow-hidden" href="https://www.alrajhibank.com.sa/Personal/Accounts" data-currency-processed="true">الحسابات</a>
+                    </li>
+                    <li title="البطاقات" aria-label="البطاقات" class="arb-max-w-fit arb-relative arb-z-50 arb-text-center arb-flex-1 arb-overflow-hidden" data-currency-processed="true">
+                      <a target="" class="arb-block arb-w-full arb-text-center arb-truncate arb-whitespace-nowrap arb-overflow-hidden" href="https://www.alrajhibank.com.sa/Personal/Cards" data-currency-processed="true">البطاقات</a>
+                    </li>
+                    <li title="التمويل" aria-label="التمويل" class="arb-max-w-fit arb-relative arb-z-50 arb-text-center arb-flex-1 arb-overflow-hidden" data-currency-processed="true">
+                      <a target="" class="arb-block arb-w-full arb-text-center arb-truncate arb-whitespace-nowrap arb-overflow-hidden" href="https://www.alrajhibank.com.sa/Personal/Finance" data-currency-processed="true">التمويل</a>
+                    </li>
+                    <li title="التأمين" aria-label="التأمين" class="arb-max-w-fit arb-relative arb-z-50 arb-text-center arb-flex-1 arb-overflow-hidden" data-currency-processed="true">
+                      <a target="" class="arb-block arb-w-full arb-text-center arb-truncate arb-whitespace-nowrap arb-overflow-hidden" href="https://www.alrajhibank.com.sa/Personal/Insurance" data-currency-processed="true">التأمين</a>
+                    </li>
+                    <li title="العروض" aria-label="العروض" class="arb-max-w-fit arb-relative arb-z-50 arb-text-center arb-flex-1 arb-overflow-hidden" data-currency-processed="true">
+                      <a target="" class="arb-block arb-w-full arb-text-center arb-truncate arb-whitespace-nowrap arb-overflow-hidden" href="https://www.alrajhibank.com.sa/Personal/Discounts" data-currency-processed="true">العروض</a>
+                    </li>
+                    <li title="الفئات" aria-label="الفئات" class="arb-max-w-fit arb-relative arb-z-50 arb-text-center arb-flex-1 arb-overflow-hidden" data-currency-processed="true">
+                      <a target="" class="arb-block arb-w-full arb-text-center arb-truncate arb-whitespace-nowrap arb-overflow-hidden" href="https://www.alrajhibank.com.sa/Personal/Segments" data-currency-processed="true">الفئات</a>
+                    </li>
+                  </ul>
+                </nav>
+              </div>
+              <div class="arb-flex arb-items-center arb-justify-end md:arb-gap-xs" data-currency-processed="true">
+                <div class="arb-flex arb-items-center arb-justify-center arb-w-full arb-flex-nowrap" data-currency-processed="true">
+                  <button class="arb-btn arb-btn-sm arb-btn-ghost arb-btn-circle max-[390px]:!arb-p-0 !arb-p-xxxxs max-[390px]:arb-h-auto max-[390px]:arb-min-h-auto max-[390px]:arb-w-auto max-[390px]:arb-min-w-auto" aria-label="بحث" tabindex="0" data-currency-processed="true">
+                    <span aria-label="" class="arb-font-icon arb-text-lg arb-icon-Search rtl:-arb-scale-x-100 arb-text-base-content/50" data-currency-processed="true"></span>
+                  </button>
+                  <div data-currency-processed="true">
+                    <button class="arb-btn arb-btn-link arb-text-primary arb-btn-sm arb-no-underline md:arb-hidden" aria-label="Switch to English" data-currency-processed="true">
+                      <img alt="English" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" src="https://www.alrajhibank.com.sa/img/arb-language-switcher/en.svg" data-currency-processed="true" style="color: transparent"></button><button class="arb-btn arb-btn-link arb-text-base-content arb-btn-sm arb-no-underline arb-hidden md:arb-inline-flex" aria-label="Switch to English" data-currency-processed="true">
+                      English
+                    </button>
+                  </div>
+                  <button class="arb-btn arb-btn-sm arb-btn-ghost arb-btn-square arb-btn arb-btn-link arb-text-primary arb-btn-sm arb-no-underline md:arb-hidden !arb-p-[inherit]" aria-label="SignIn" data-currency-processed="true">
+                    <span aria-label="" class="arb-font-icon arb-icon-userLogo arb-text-2xl arb-text-base-content/50" data-currency-processed="true"></span></button><button class="arb-btn arb-min-w-xxl arb-btn-sm arb-btn-primary arb-w-fit max-md:arb-hidden" data-currency-processed="true">
+                    تسجيل الدخول
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </header>
+        <!--/$-->
+        <main class="main-content prose-a:arb-text-primary" data-currency-processed="true">
+          <!--$-->
+          <div id="content" class="arb-flex arb-flex-col arb-gap-16" data-currency-processed="true">
+            <!--$-->
+            <div class="" data-currency-processed="true">
+              <!--$-->
+              <div class="arb-relative arb-bg-base-100 xl:arb-min-h-[41.25rem] lg:arb-min-h-[38.875rem] arb-min-h-[39rem] arb-overflow-visible arb-grid arb-grid-cols-1 arb-grid-rows-1" data-currency-processed="true">
+                <div style="
+                      clip-path: path(
+                        'm 503.5 382 l -259.8 -522.772 l -222.73 -458.645 l 3040 0 l 0 1137 l -2329.97 0 c -46.434 -0.176 -91.007 -14.65 -131.13 -41.964 c -40.123 -27.314 -73.378 -66.503 -96.415 -113.619 Z'
+                      );
+                    " class="arb-bg-hero-gradient arb-col-start-1 arb-row-start-1 rtl:-arb-scale-x-100 lg:arb-block arb-hidden arb-hero-clip-shape arb-relative !arb-h-[37rem] arb-full-bleed-container" data-currency-processed="true">
+                  <div class="arb-absolute arb-end-0 rtl:arb-end-auto rtl:-arb-scale-x-100 arb-bottom-[3.4rem] arb-hidden lg:arb-flex" data-currency-processed="true">
+                    <img alt="" loading="lazy" width="800" height="600" decoding="async" data-nimg="1" class="arb-object-contain arb-relative arb-top-[1rem] arb-w-[54rem] arb-h-[30rem]" style="color: transparent" src="https://www.alrajhibank.com.sa/-/media/Project/AlRajhi/ARBRevamp/Home/Personal/08.webp?iar=0&amp;hash=1E39DE7169FBE9DCE1C60A9A937E046A" data-currency-processed="true">
+                  </div>
+                </div>
+                <section class="arb-full-bleed-container arb-col-start-1 arb-row-start-1 arb-inset-0" data-currency-processed="true">
+                  <div class="arb-px-xxxs lg:arb-px-content-padding arb-pt-24 md:arb-pt-content-top-margin arb-h-full arb-flex arb-relative" data-currency-processed="true">
+                    <div class="arb-flex-1 arb-flex arb-flex-col arb-gap-l lg:arb-gap-xl arb-pb-12 md:arb-pb-xxl arb-z-10" data-currency-processed="true">
+                      <div class="hero-header arb-min-h-s arb-hidden" data-currency-processed="true"></div>
+                      <div class="arb-flex arb-flex-col arb-h-full" data-currency-processed="true">
+                        <div class="arb-relative arb-flex max-lg:arb-flex-col arb-gap-xl" data-currency-processed="true">
+                          <div class="arb-flex-1 lg:arb-max-w-[100%]" data-currency-processed="true">
+                            <div class="rtl:-arb-scale-x-100 arb-float-end arb-h-[18rem] arb-w-[calc(50%+7rem)] hero-text-mask lg:arb-block arb-hidden" aria-hidden="true" data-currency-processed="true"></div>
+                            <div class="arb-flex arb-flex-col arb-justify-center max-lg:arb-items-center arb-h-full max-sm:arb-my-[4rem]" data-currency-processed="true">
+                              <div data-currency-processed="true">
+                                <h1 class="md:arb-text-5xl !arb-text-center lg:!arb-text-start sm:!arb-text-center arb-text-4xl arb-font-semibold arb-mb-xs arb-leading-relaxed arb-break-words arb-whitespace-normal max-sm:arb-w-full max-lg:arb-w-[44rem] arb-leading-normal arb-text-left" data-currency-processed="true">
+                                  نموذج التحقق من مستندات
+                                </h1>
+                                <div class="arb-relative" data-currency-processed="true">
+                                  <p class="arb-text-base arb-font-normal arb-leading-normal arb-line-clamp-5 arb-text-center arb-text-base arb-text-base-content/70 arb-mb-s lg:arb-text-start" data-currency-processed="true">
+                                    نموذج التحقق من مستندات
+                                  </p>
+                                </div>
+                              </div>
+                              <div class="arb-flex arb-flex-col arb-gap-s" data-currency-processed="true">
+                                <div class="arb-w-full arb-flex-1" data-currency-processed="true">
+                                  <div class="arb-flex arb-flex-col max-lg:arb-items-center md:arb-flex-row arb-gap-s" data-currency-processed="true"></div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+              </div>
+              <!--/$-->
+            </div>
+            <!--/$--><!--$-->
+            <div class="" data-currency-processed="true"></div>
+            <!--/$--><!--$-->
+            <div class="component container-default basis-full" data-currency-processed="true">
+              <div class="component-content" data-currency-processed="true">
+                <div class="row" data-currency-processed="true"></div>
+              </div>
+            </div>
+            <!--/$--><!--$-->
+            <div class="" data-currency-processed="true">
+              <!--$-->
+              <section class="arb-py-xl arb-bg-base-200 arb-overflow-hidden arb-text-right" id="edocument-form" data-currency-processed="true">
+                <div class="arb-px-xxxs lg:arb-px-content-padding" data-currency-processed="true">
+                  <div class="arb-card arb-bg-base-100 arb-shadow-xl" data-currency-processed="true">
+                    <div class="arb-card-body" data-currency-processed="true">
+                      <h2 class="arb-text-xl arb-font-semibold arb-text-primary arb-mb-m arb-text-right" style="display: none" data-currency-processed="true"></h2>
+                      <div class="arb-grid arb-grid-cols-1 md:arb-grid-cols-2 arb-gap-m" data-currency-processed="true">
+                        <div class="arb-form-control arb-w-full arb-py-3 arb-text-right" data-currency-processed="true">
+                          <span class="arb-label-text arb-text-md arb-my-3" data-currency-processed="true">رقم الهوية
+                            الوطنية أو الإقامة أو رقم
+                            المنشأة</span><input type="text" id="national_id" class="arb-input arb-text-md arb-input-bordered arb-w-full arb-bg-base-300 arb-text-right" placeholder="برجاء أدخال رقم الهوية الوطنية أو الإقامة أو رقم المنشأة" style="text-align: right" value="" data-currency-processed="true">
+                        </div>
+                        <div class="arb-form-control arb-w-full arb-py-3 arb-text-right" data-currency-processed="true">
+                          <span class="arb-label-text arb-text-md arb-my-3" data-currency-processed="true">الرقم
+                            التسلسلي</span><input type="text" id="serial_number" class="arb-input arb-input-bordered arb-text-md arb-w-full arb-bg-base-300 arb-text-right" placeholder="برجاء أدخال الرقم التسلسلي" style="text-align: right" value="" data-currency-processed="true">
+                        </div>
+                      </div>
+                      <div class="arb-mt-m arb-text-center" data-currency-processed="true">
+                        <button class="arb-btn arb-btn-primary" data-currency-processed="true" onclick="verifyAndDownload()">
+                          انقر هنا لتحميل الملف
+                        </button>
+                      </div>
+                      <div class="arb-mt-m arb-text-center" data-currency-processed="true"></div>
+                    </div>
+                  </div>
+                </div>
+              </section>
+              <!--/$-->
+            </div>
+            <!--/$-->
+          </div>
+          <!--/$-->
+        </main>
+        <footer class="sm:arb-px-0 arb-pt-16 arb-full-bleed-container arb-flex arb-justify-center arb-items-center arb-h-full arb-w-full" data-currency-processed="true">
+          <!--$-->
+          <div id="footer" class="md:arb-px-content-padding arb-px-s arb-w-full arb-flex arb-flex-col arb-relative" data-currency-processed="true">
+            <!--$--><!--$--><!--$-->
+            <div class="max-sm:arb-flex-col md:arb-flex-row" style=" transform: translateY(-100px)" data-currency-processed="true">
+              <!--$-->
+              <div class="arb-content-center arb-flex arb-pb-l arb-flex-col md:arb-flex-row arb-gap-6 md:arb-gap-12" data-currency-processed="true">
+                <!--$-->
+                <div class="arb-flex arb-justify-between max-sm:arb-items-center" data-currency-processed="true">
+                  <!--$-->
+                  <div class="component image arb-block md:arb-hidden arb-min-w-[117px] arb-min-h-[42px] arb-relative" data-currency-processed="true">
+                    <div class="component-content" data-currency-processed="true">
+                      <img alt="" loading="lazy" width="155" height="53" decoding="async" data-nimg="1" style="color: transparent" src="https://www.alrajhibank.com.sa/-/media/Project/AlRajhi/ARBRevamp/Temp/AlRajhiBankLogo.svg?h=53&amp;iar=0&amp;w=155&amp;hash=CDCB0DBCE8B0FB5F773D371AC48A083E" data-currency-processed="true">
+                    </div>
+                  </div>
+                  <!--/$--><!--$-->
+                  <div class="arb-dropdown arb-dropdown-end arb-w-fit arb-mt-4 undefined" data-currency-processed="true">
+                    <label tabindex="0" class="arb-bg-base-100 arb-flex arb-content-center arb-justify-between arb-py-xxxs arb-px-4 !arb-h-auto arb-btn md:arb-btn-sm arb-shadow-none arb-border-none arb-font-arabic arb-w-36 arb-flex-nowrap" data-currency-processed="true"><img alt="العربية" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" style="color: transparent" src="https://www.alrajhibank.com.sa/img/arb-language-switcher/ar.svg" data-currency-processed="true"><span data-currency-processed="true">العربية</span><span class="arb-font-icon arb-icon-chevronDown" data-currency-processed="true"></span></label>
+                  </div>
+                  <!--/$-->
+                </div>
+                <!--/$--><!--$-->
+                <div class="arb-flex arb-justify-between arb-w-full arb-flex-col md:arb-flex-row arb-flex-wrap arb-gap-y-2 arb-py-4" data-currency-processed="true">
+                  <!--$-->
+                  <div class="arb-relative arb-overflow-clip arb-collapse-arrow !arb-rounded-none max-sm:arb-collapse arb-relative arb-overflow-clip arb-ml-2" data-currency-processed="true">
+                    <div class="arb-absolute arb-inset-0 arb-z-20 arb-bg-lightBlue" aria-hidden="true" style="transform: translateX(120%)" data-currency-processed="true"></div>
+                    <div class="md:arb-block max-md:arb-hidden" data-currency-processed="true">
+                      <h3 class="arb-mb-s arb-text-lg arb-leading-normal arb-text-left" data-currency-processed="true">
+                        الأفراد
+                      </h3>
+                      <ul class="arb-flex arb-list-none arb-flex-col arb-gap-xs arb-text-base arb-opacity-75" data-currency-processed="true">
+                        <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                          <a title="" target="" class="" href="https://www.alrajhibank.com.sa/Personal/Accounts" data-currency-processed="true">الحسابات</a>
+                        </li>
+                        <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                          <a title="" target="" class="" href="https://www.alrajhibank.com.sa/Personal/Cards" data-currency-processed="true">البطاقات</a>
+                        </li>
+                        <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                          <a title="" target="" class="" href="https://www.alrajhibank.com.sa/Personal/Finance" data-currency-processed="true">التمويل</a>
+                        </li>
+                        <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                          <a title="" target="" class="" href="https://www.alrajhibank.com.sa/Personal/Insurance" data-currency-processed="true">التأمين</a>
+                        </li>
+                        <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                          <a title="" target="" class="" href="https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers" data-currency-processed="true">العروض</a>
+                        </li>
+                      </ul>
+                    </div>
+                    <div class="md:arb-hidden" data-currency-processed="true">
+                      <div class="arb-collapse arb-collapse-arrow arb-bg-base-100 arb-join-item !arb-rounded-none arb-bg-transparent [&amp;_.arb-collapse-title]:arb-min-h-0 [&amp;_.arb-collapse-content]:arb-bg-transparent" role="region" aria-labelledby=":Rpmft6:" data-currency-processed="true">
+                        <input type="checkbox" class="arb-peer" aria-controls=":Rpmft6H1:" value="" data-currency-processed="true">
+                        <div class="arb-collapse-title arb-peer-checked:arb-bg-white [&amp;_h3]:!arb-m-0" id=":Rpmft6:" data-currency-processed="true">
+                          <h3 class="lg:arb-text-xl arb-text-base arb-font-medium arb-leading-normal arb-text-left" data-currency-processed="true">
+                            الأفراد
+                          </h3>
+                        </div>
+                        <div class="arb-collapse-content arb-peer-checked:arb-bg-base-200" id=":Rpmft6H1:" data-currency-processed="true">
+                          <ul class="arb-flex arb-list-none arb-flex-col arb-gap-xs arb-text-base arb-opacity-75" data-currency-processed="true">
+                            <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                              <a title="" target="" class="" href="https://www.alrajhibank.com.sa/Personal/Accounts" data-currency-processed="true">الحسابات</a>
+                            </li>
+                            <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                              <a title="" target="" class="" href="https://www.alrajhibank.com.sa/Personal/Cards" data-currency-processed="true">البطاقات</a>
+                            </li>
+                            <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                              <a title="" target="" class="" href="https://www.alrajhibank.com.sa/Personal/Finance" data-currency-processed="true">التمويل</a>
+                            </li>
+                            <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                              <a title="" target="" class="" href="https://www.alrajhibank.com.sa/Personal/Insurance" data-currency-processed="true">التأمين</a>
+                            </li>
+                            <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                              <a title="" target="" class="" href="https://www.alrajhibank.com.sa/Personal/Offers/CardsOffers" data-currency-processed="true">العروض</a>
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--/$--><!--$-->
+                  <div class="arb-relative arb-overflow-clip arb-collapse-arrow !arb-rounded-none max-sm:arb-collapse arb-relative arb-overflow-clip arb-ml-2" data-currency-processed="true">
+                    <div class="arb-absolute arb-inset-0 arb-z-20 arb-bg-lightBlue" aria-hidden="true" style="transform: translateX(120%)" data-currency-processed="true"></div>
+                    <div class="md:arb-block max-md:arb-hidden" data-currency-processed="true">
+                      <h3 class="arb-mb-s arb-text-lg arb-leading-normal arb-text-left" data-currency-processed="true">
+                        الأعمال
+                      </h3>
+                      <ul class="arb-flex arb-list-none arb-flex-col arb-gap-xs arb-text-base arb-opacity-75" data-currency-processed="true">
+                        <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                          <a title="" target="" class="" href="https://www.alrajhibank.com.sa/Business/Cash-Management" data-currency-processed="true">إدارة النقد</a>
+                        </li>
+                        <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                          <a title="" target="" class="" href="https://www.alrajhibank.com.sa/Business/Finance" data-currency-processed="true">التمويل</a>
+                        </li>
+                        <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                          <a title="" target="" class="" href="https://www.alrajhibank.com.sa/Business/Insurance" data-currency-processed="true">التأمين</a>
+                        </li>
+                        <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                          <a title="" target="" class="" href="https://www.alrajhibank.com.sa/Business/Trade" data-currency-processed="true">التجارة</a>
+                        </li>
+                        <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                          <a title="" target="" class="" href="https://www.alrajhibank.com.sa/Business/Cards" data-currency-processed="true">البطاقات</a>
+                        </li>
+                      </ul>
+                    </div>
+                    <div class="md:arb-hidden" data-currency-processed="true">
+                      <div class="arb-collapse arb-collapse-arrow arb-bg-base-100 arb-join-item !arb-rounded-none arb-bg-transparent [&amp;_.arb-collapse-title]:arb-min-h-0 [&amp;_.arb-collapse-content]:arb-bg-transparent" role="region" aria-labelledby=":Rqmft6:" data-currency-processed="true">
+                        <input type="checkbox" class="arb-peer" aria-controls=":Rqmft6H1:" value="" data-currency-processed="true">
+                        <div class="arb-collapse-title arb-peer-checked:arb-bg-white [&amp;_h3]:!arb-m-0" id=":Rqmft6:" data-currency-processed="true">
+                          <h3 class="lg:arb-text-xl arb-text-base arb-font-medium arb-leading-normal arb-text-left" data-currency-processed="true">
+                            الأعمال
+                          </h3>
+                        </div>
+                        <div class="arb-collapse-content arb-peer-checked:arb-bg-base-200" id=":Rqmft6H1:" data-currency-processed="true">
+                          <ul class="arb-flex arb-list-none arb-flex-col arb-gap-xs arb-text-base arb-opacity-75" data-currency-processed="true">
+                            <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                              <a title="" target="" class="" href="https://www.alrajhibank.com.sa/Business/Cash-Management" data-currency-processed="true">إدارة النقد</a>
+                            </li>
+                            <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                              <a title="" target="" class="" href="https://www.alrajhibank.com.sa/Business/Finance" data-currency-processed="true">التمويل</a>
+                            </li>
+                            <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                              <a title="" target="" class="" href="https://www.alrajhibank.com.sa/Business/Insurance" data-currency-processed="true">التأمين</a>
+                            </li>
+                            <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                              <a title="" target="" class="" href="https://www.alrajhibank.com.sa/Business/Trade" data-currency-processed="true">التجارة</a>
+                            </li>
+                            <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                              <a title="" target="" class="" href="https://www.alrajhibank.com.sa/Business/Cards" data-currency-processed="true">البطاقات</a>
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--/$--><!--$-->
+                  <div class="arb-relative arb-overflow-clip arb-collapse-arrow !arb-rounded-none max-sm:arb-collapse arb-relative arb-overflow-clip arb-ml-2" data-currency-processed="true">
+                    <div class="arb-absolute arb-inset-0 arb-z-20 arb-bg-lightBlue" aria-hidden="true" style="transform: translateX(120%)" data-currency-processed="true"></div>
+                    <div class="md:arb-block max-md:arb-hidden" data-currency-processed="true">
+                      <h3 class="arb-mb-s arb-text-lg arb-leading-normal arb-text-left" data-currency-processed="true">
+                        عن مصرف الراجحي
+                      </h3>
+                      <ul class="arb-flex arb-list-none arb-flex-col arb-gap-xs arb-text-base arb-opacity-75" data-currency-processed="true">
+                        <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                          <a title="" target="" class="" href="https://www.alrajhibank.com.sa/About-alrajhi-bank" data-currency-processed="true">نبذه عن المصرف</a>
+                        </li>
+                        <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                          <a title="" target="" class="" href="https://www.alrajhibank.com.sa/About-alrajhi-bank/Investor-Relations" data-currency-processed="true">علاقات المستثمرين</a>
+                        </li>
+                        <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                          <a title="" target="" class="" href="https://www.alrajhibank.com.sa/About-alrajhi-bank/Investor-Relations/Basel-Disclosure" data-currency-processed="true">افصاحات بازل</a>
+                        </li>
+                        <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                          <a title="" target="" class="" href="https://www.alrajhibank.com.sa/About-alrajhi-bank/Media-Center" data-currency-processed="true">المركز الإعلامي</a>
+                        </li>
+                        <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                          <a href="https://careers.alrajhibank.com.sa/ar/" target="" data-currency-processed="true">الوظائف</a>
+                        </li>
+                      </ul>
+                    </div>
+                    <div class="md:arb-hidden" data-currency-processed="true">
+                      <div class="arb-collapse arb-collapse-arrow arb-bg-base-100 arb-join-item !arb-rounded-none arb-bg-transparent [&amp;_.arb-collapse-title]:arb-min-h-0 [&amp;_.arb-collapse-content]:arb-bg-transparent" role="region" aria-labelledby=":Rrmft6:" data-currency-processed="true">
+                        <input type="checkbox" class="arb-peer" aria-controls=":Rrmft6H1:" value="" data-currency-processed="true">
+                        <div class="arb-collapse-title arb-peer-checked:arb-bg-white [&amp;_h3]:!arb-m-0" id=":Rrmft6:" data-currency-processed="true">
+                          <h3 class="lg:arb-text-xl arb-text-base arb-font-medium arb-leading-normal arb-text-left" data-currency-processed="true">
+                            عن مصرف الراجحي
+                          </h3>
+                        </div>
+                        <div class="arb-collapse-content arb-peer-checked:arb-bg-base-200" id=":Rrmft6H1:" data-currency-processed="true">
+                          <ul class="arb-flex arb-list-none arb-flex-col arb-gap-xs arb-text-base arb-opacity-75" data-currency-processed="true">
+                            <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                              <a title="" target="" class="" href="https://www.alrajhibank.com.sa/About-alrajhi-bank" data-currency-processed="true">نبذه عن المصرف</a>
+                            </li>
+                            <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                              <a title="" target="" class="" href="https://www.alrajhibank.com.sa/About-alrajhi-bank/Investor-Relations" data-currency-processed="true">علاقات المستثمرين</a>
+                            </li>
+                            <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                              <a title="" target="" class="" href="https://www.alrajhibank.com.sa/About-alrajhi-bank/Investor-Relations/Basel-Disclosure" data-currency-processed="true">افصاحات بازل</a>
+                            </li>
+                            <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                              <a title="" target="" class="" href="https://www.alrajhibank.com.sa/About-alrajhi-bank/Media-Center" data-currency-processed="true">المركز الإعلامي</a>
+                            </li>
+                            <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                              <a href="https://careers.alrajhibank.com.sa/ar/" target="" data-currency-processed="true">الوظائف</a>
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--/$--><!--$-->
+                  <div class="arb-relative arb-overflow-clip arb-collapse-arrow !arb-rounded-none max-sm:arb-collapse arb-relative arb-overflow-clip arb-ml-2" data-currency-processed="true">
+                    <div class="arb-absolute arb-inset-0 arb-z-20 arb-bg-lightBlue" aria-hidden="true" style="transform: translateX(120%)" data-currency-processed="true"></div>
+                    <div class="md:arb-block max-md:arb-hidden" data-currency-processed="true">
+                      <h3 class="arb-mb-s arb-text-lg arb-leading-normal arb-text-left" data-currency-processed="true">
+                        الدعم والمساعدة
+                      </h3>
+                      <ul class="arb-flex arb-list-none arb-flex-col arb-gap-xs arb-text-base arb-opacity-75" data-currency-processed="true">
+                        <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                          <a href="https://www.alrajhibank.com.sa/-/media/Project/AlRajhi/ARBRevamp/Home/Customer-protection-principles-AR.pdf" target="_blank" rel="noopener noreferrer" data-currency-processed="true">مبادئ وقواعد حماية
+                            العملاء
+                          </a>
+                        </li>
+                        <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                          <a title="" target="" class="" href="https://www.alrajhibank.com.sa/Personal/Accounts/Products-And-Services-Fees" data-currency-processed="true">التعرفة البنكية
+                          </a>
+                        </li>
+                        <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                          <a title="" target="" class="" href="https://www.alrajhibank.com.sa/forms/submit-your-request" data-currency-processed="true">لرفع طلب أو شكوى</a>
+                        </li>
+                        <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                          <a title="" target="" class="" href="https://www.alrajhibank.com.sa/find-branch" data-currency-processed="true">ابحث عن الفرع الأقرب لك</a>
+                        </li>
+                      </ul>
+                    </div>
+                    <div class="md:arb-hidden" data-currency-processed="true">
+                      <div class="arb-collapse arb-collapse-arrow arb-bg-base-100 arb-join-item !arb-rounded-none arb-bg-transparent [&amp;_.arb-collapse-title]:arb-min-h-0 [&amp;_.arb-collapse-content]:arb-bg-transparent" role="region" aria-labelledby=":Rsmft6:" data-currency-processed="true">
+                        <input type="checkbox" class="arb-peer" aria-controls=":Rsmft6H1:" value="" data-currency-processed="true">
+                        <div class="arb-collapse-title arb-peer-checked:arb-bg-white [&amp;_h3]:!arb-m-0" id=":Rsmft6:" data-currency-processed="true">
+                          <h3 class="lg:arb-text-xl arb-text-base arb-font-medium arb-leading-normal arb-text-left" data-currency-processed="true">
+                            الدعم والمساعدة
+                          </h3>
+                        </div>
+                        <div class="arb-collapse-content arb-peer-checked:arb-bg-base-200" id=":Rsmft6H1:" data-currency-processed="true">
+                          <ul class="arb-flex arb-list-none arb-flex-col arb-gap-xs arb-text-base arb-opacity-75" data-currency-processed="true">
+                            <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                              <a href="https://www.alrajhibank.com.sa/-/media/Project/AlRajhi/ARBRevamp/Home/Customer-protection-principles-AR.pdf" target="_blank" rel="noopener noreferrer" data-currency-processed="true">مبادئ وقواعد
+                                حماية العملاء
+                              </a>
+                            </li>
+                            <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                              <a title="" target="" class="" href="https://www.alrajhibank.com.sa/Personal/Accounts/Products-And-Services-Fees" data-currency-processed="true">التعرفة البنكية
+                              </a>
+                            </li>
+                            <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                              <a title="" target="" class="" href="https://www.alrajhibank.com.sa/forms/submit-your-request" data-currency-processed="true">لرفع طلب أو شكوى</a>
+                            </li>
+                            <li class="arb-text-md arb-leading-snug" data-currency-processed="true">
+                              <a title="" target="" class="" href="https://www.alrajhibank.com.sa/find-branch" data-currency-processed="true">ابحث عن الفرع الأقرب لك</a>
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--/$-->
+                </div>
+                <!--/$-->
+              </div>
+              <!--/$-->
+            </div>
+            <!--/$--><!--/$--><!--$--><!--$-->
+            <div style=" transform: translateY(100px)" data-currency-processed="true">
+              <!--$-->
+              <div class="arb-flex arb-justify-between arb-flex arb-justify-between arb-items-center arb-relative arb-mb-m" data-currency-processed="true">
+                <!--$-->
+                <div class="component image md:arb-block arb-hidden arb-min-w-[117px] arb-min-h-[42px] arb-relative" data-currency-processed="true">
+                  <div class="component-content" data-currency-processed="true">
+                    <img alt="" loading="lazy" width="155" height="53" decoding="async" data-nimg="1" style="color: transparent" src="https://www.alrajhibank.com.sa/-/media/Project/AlRajhi/ARBRevamp/Temp/AlRajhiBankLogo.svg?h=53&amp;iar=0&amp;w=155&amp;hash=CDCB0DBCE8B0FB5F773D371AC48A083E" data-currency-processed="true">
+                  </div>
+                </div>
+                <!--/$--><!--$-->
+                <div id="social-links" aria-label="Social media platforms links" class="max-sm:arb-mx-auto max-sm:arb-scale-110" data-currency-processed="true">
+                  <ul class="arb-list-none arb-flex arb-flex-wrap arb-justify-center md:arb-justify-end arb-items-center lg:arb-gap-xs arb-text-xs md:arb-grayscale-0 arb-grayscale md:arb-opacity-100 arb-opacity-80 arb-text-base-content/50 component link-list arb-list-none arb-flex arb-justify-center md:arb-justify-end arb-items-center md:arb-gap-m arb-gap-xs arb-text-xs md:arb-grayscale-0 arb-grayscale md:arb-opacity-100 arb-opacity-80" data-currency-processed="true">
+                    <li class="" data-currency-processed="true">
+                      <a href="https://x.com/alrajhibank" class="arb-btn arb-btn-sm arb-btn-ghost arb-btn-circle" target="_blank" rel="noopener noreferrer" data-currency-processed="true"><span class="arb-font-icon arb-text-base arb-icon-tabler-icon-brand-x" data-currency-processed="true"></span></a>
+                    </li>
+                    <li class="" data-currency-processed="true">
+                      <a href="https://www.facebook.com/alrajhibank" class="arb-btn arb-btn-sm arb-btn-ghost arb-btn-circle" target="_blank" rel="noopener noreferrer" data-currency-processed="true"><span class="arb-font-icon arb-text-base arb-icon-facebook arb-text-lg" data-currency-processed="true"></span></a>
+                    </li>
+                    <li class="" data-currency-processed="true">
+                      <a href="https://www.instagram.com/alrajhibank/#" class="arb-btn arb-btn-sm arb-btn-ghost arb-btn-circle" target="_blank" rel="noopener noreferrer" data-currency-processed="true"><span class="arb-font-icon arb-text-base arb-icon-Instgram" data-currency-processed="true"></span></a>
+                    </li>
+                    <li class="" data-currency-processed="true">
+                      <a href="https://www.linkedin.com/company/alrajhibank/" class="arb-btn arb-btn-sm arb-btn-ghost arb-btn-circle" target="_blank" rel="noopener noreferrer" data-currency-processed="true"><span class="arb-font-icon arb-text-base arb-icon-LinkedIn_icon-1" data-currency-processed="true"></span></a>
+                    </li>
+                    <li class="" data-currency-processed="true">
+                      <a href="https://t.snapchat.com/pm9epXMZ" class="arb-btn arb-btn-sm arb-btn-ghost arb-btn-circle" target="_blank" rel="noopener noreferrer" data-currency-processed="true"><span class="arb-font-icon arb-text-base arb-icon-tabler-icon-brand-snapchat" data-currency-processed="true"></span></a>
+                    </li>
+                    <li class="" data-currency-processed="true">
+                      <a href="https://www.tiktok.com/@alrajhibank?lang" class="arb-btn arb-btn-sm arb-btn-ghost arb-btn-circle" target="_blank" rel="noopener noreferrer" data-currency-processed="true"><span class="arb-font-icon arb-text-base arb-icon-tabler-icon-brand-tiktok-filled" data-currency-processed="true"></span></a>
+                    </li>
+                  </ul>
+                </div>
+                <!--/$-->
+              </div>
+              <!--/$--><!--$-->
+              <div class="arb-pt-4 md:arb-pt-8 arb-pb-12 arb-px-0 md:arb-px-6" data-currency-processed="true">
+                <div class="arb-flex arb-flex-wrap arb-justify-center arb-gap-x-3 arb-gap-y-2 arb-text-sm arb-text-opacity-80" data-currency-processed="true">
+                  <a title="" target="" class="arb-leading-snug md:arb-text-md arb-opacity-70" href="https://www.alrajhibank.com.sa/find-branch" data-currency-processed="true">الفروع وأجهزة
+                    الصراف الآلي</a><span data-currency-processed="true">|</span><a title="" target="" class="arb-leading-snug md:arb-text-md arb-opacity-70" href="https://www.alrajhibank.com.sa/Business/Finance/Employer-Onboarding" data-currency-processed="true">بوابة اعتماد الجهات</a><span data-currency-processed="true">|</span><a title="" target="" class="arb-leading-snug md:arb-text-md arb-opacity-70" href="https://www.alrajhibank.com.sa/About-alrajhi-bank/Fraud-Awareness" data-currency-processed="true">الوعي ضد الاحتيال</a><span data-currency-processed="true">|</span><a title="" target="" class="arb-leading-snug md:arb-text-md arb-opacity-70" href="https://www.alrajhibank.com.sa/Personal/Programs/Partnership-Program" data-currency-processed="true">برنامج الشراكات</a><span data-currency-processed="true">|</span><a title="" target="" class="arb-leading-snug md:arb-text-md arb-opacity-70" href="https://www.alrajhibank.com.sa/SiteMap" data-currency-processed="true">خريطة الموقع</a><span data-currency-processed="true">|</span><a title="" target="" class="arb-leading-snug md:arb-text-md arb-opacity-70" href="https://www.alrajhibank.com.sa/About-alrajhi-bank/Vendors" data-currency-processed="true">الموردون</a><span data-currency-processed="true">|</span><a title="" target="" class="arb-leading-snug md:arb-text-md arb-opacity-70" href="https://www.alrajhibank.com.sa/About-alrajhi-bank/Governance" data-currency-processed="true">الحوكمة</a><span data-currency-processed="true">|</span><a title="" target="" class="arb-leading-snug md:arb-text-md arb-opacity-70" href="https://www.alrajhibank.com.sa/About-alrajhi-bank/Compliance" data-currency-processed="true">الإلتزام</a><span data-currency-processed="true">|</span><a title="" target="" class="arb-leading-snug md:arb-text-md arb-opacity-70" href="https://www.alrajhibank.com.sa/About-alrajhi-bank/Corporate-Social-Responsibility" data-currency-processed="true">المسؤولية الاجتماعية</a>
+                </div>
+              </div>
+              <!--/$--><!--$-->
+              <div class="arb-flex lg:arb-text-start arb-gap-s arb-text-center arb-flex arb-flex-wrap arb-justify-center arb-items-center md:arb-justify-between arb-bg-base-100 arb-rounded-4xl arb-shadow-lg lg:arb-p-s arb-py-l arb-p-xs arb-mb-m" data-currency-processed="true">
+                <!--$-->
+                <div class="basis-full" data-currency-processed="true">
+                  <p class="arb-font-normal md:arb-text-l arb-text-base arb-text-base-content/55 arb-mb-1" data-currency-processed="true">
+                    الهاتف التسويقي
+                  </p>
+                  <a target="" class="arb-font-semibold md:arb-text-xl arb-text-xl" href="https://www.alrajhibank.com.sa/tel:8001241222" data-currency-processed="true">800-124-1222</a>
+                </div>
+                <!--/$--><!--$-->
+                <div class="basis-full" data-currency-processed="true">
+                  <p class="arb-font-normal md:arb-text-l arb-text-base arb-text-base-content/55 arb-mb-1" data-currency-processed="true">
+                    العناية بالعملاء
+                  </p>
+                  <a target="" class="arb-font-semibold md:arb-text-xl arb-text-xl" href="https://www.alrajhibank.com.sa/tel:920003344" data-currency-processed="true">920-003-344</a>
+                </div>
+                <!--/$--><!--$-->
+                <div class=" " data-currency-processed="true">
+                  <p class="arb-font-normal md:arb-text-l arb-text-base arb-text-base-content/55 arb-mb-1" data-currency-processed="true">
+                    الرقم المجاني للبلاغات والشكاوى
+                  </p>
+                  <a target="" class="arb-font-semibold md:arb-text-xl arb-text-xl" href="https://www.alrajhibank.com.sa/tel:8001244455" data-currency-processed="true">800-124-4455</a>
+                </div>
+                <!--/$-->
+              </div>
+              <!--/$--><!--$-->
+              <div class="arb-text-base-content/65 arb-text-sm arb-text-center" data-currency-processed="true">
+                <span data-currency-processed="true">شركة الراجحي المصرفية للاستثمار، نوع الكيان: مصرف / مؤسسة
+                  مالية، شركة سعودية مساهمة برأس مال: 40,000,000,000.00
+                  <span data-currency-processed="true"><span class="arb-font-icon arb-text-base arb-icon-sar arb-px-1" data-currency-processed="true"></span></span>
+                  ، رقم السجل التجاري: 1010000096، صندوق بريد: 28 الرياض 11411
+                  المملكة العربية السعودية، هاتف: 0096611211600، العنوان
+                  الوطني: شركة الراجحي المصرفية للاستثمار، 8467 طريق الملك
+                  فهد-حي المروج، وحدة رقم (1)، الرياض، 122630 – 2743 ، الموقع
+                  الإلكتروني: www.alrajhibank.com.sa ، مرخص لها برقم الترخيص:
+                  1420 ، وخاضعة لرقابة وإشراف البنك المركزي السعودي</span>
+              </div>
+              <!--/$--><!--$-->
+              <div class="arb-copyright md:arb-gap-auto arb-grid arb-grid-cols-2 arb-gap-y-s arb-py-m max-sm:arb-flex-col md:arb-flex-row" data-currency-processed="true">
+                <!--$-->
+                <div class="component rich-text arb-col-start-1 -arb-col-end-1 arb-row-start-2 lg:arb-col-end-auto lg:arb-row-start-1 max-lg:arb-text-center arb-text-sm arb-opacity-70" data-currency-processed="true">
+                  <div class="component-content" data-currency-processed="true">
+                    <div data-currency-processed="true">
+                      <div class="arb-col-start-1 -arb-col-end-1 arb-row-start-2 lg:arb-col-end-auto lg:arb-row-start-1" data-currency-processed="true">
+                        <p class="max-lg:arb-text-center arb-text-md arb-opacity-70" data-currency-processed="true">
+                          <span data-currency-processed="true">حقوق الطبع والنشر ©2025 مصرف الراجحي.</span>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!--/$--><!--$-->
+                <div class="component link-list arb-justify-self-center arb-legal-nav arb-col-start-1 -arb-col-end-1 arb-row-start-1" data-currency-processed="true">
+                  <ul class="arb-flex arb-list-none arb-justify-center arb-gap-4 arb-text-center arb-text-md md:arb-text-sm arb-opacity-70" data-currency-processed="true">
+                    <li class="item0 odd first" data-currency-processed="true">
+                      <div class="field-link" data-currency-processed="true">
+                        <a title="" target="" class="" href="https://www.alrajhibank.com.sa/About-alrajhi-bank/Cookie-Policy" data-currency-processed="true">سياسة ملفات تعريف الارتباط</a>
+                      </div>
+                    </li>
+                    <li class="item1 even" data-currency-processed="true">
+                      <div class="field-link" data-currency-processed="true">
+                        <a title="" target="" class="" href="https://www.alrajhibank.com.sa/About-alrajhi-bank/privacy-policy" data-currency-processed="true">سياسة الخصوصية</a>
+                      </div>
+                    </li>
+                    <li class="item2 odd last" data-currency-processed="true">
+                      <div class="field-link" data-currency-processed="true">
+                        <a title="" target="" class="" href="https://www.alrajhibank.com.sa/About-alrajhi-bank/Terms-and-Conditions" data-currency-processed="true">الأحكام والشروط</a>
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+                <!--/$-->
+              </div>
+              <!--/$-->
+            </div>
+            <!--/$--><!--/$--><!--/$-->
+          </div>
+          <!--/$-->
+        </footer>
+      </div>
+      <section class="arb-bg-white arb-px-0 arb-fixed arb-bottom-0 arb-left-0 arb-z-50 arb-w-full arb-shadow-base-200 arb-shadow-3xl arb-transition-transform arb-duration-500 arb-translate-y-full" data-currency-processed="true">
+        <div class="arb-w-full arb-full-bleed-container" data-currency-processed="true">
+          <div class="lg:arb-px-content-padding arb-p-4 arb-flex arb-flex-col arb-text-start max-sm:arb-text-center md:arb-flex-row arb-justify-between arb-items-center arb-gap-2 md:arb-gap-16" data-currency-processed="true">
+            <img alt="" loading="lazy" width="100" height="100" decoding="async" data-nimg="1" class="md:arb-max-h-20 md:arb-max-w-20 arb-max-w-12" src="https://www.alrajhibank.com.sa/img/Alrajhi/AlrajhiLogo.png" style="color: transparent" data-currency-processed="true">
+            <p class="arb-text-base-content/65 arb-font-normal arb-leading-6 md:arb-leading-9" data-currency-processed="true">
+              من خلال النقر على "قبول جميع ملفات تعريف الارتباط"، فإنك توافق
+              على تخزين ملفات تعريف الارتباط على جهازك لتحسين التنقل في
+              الموقع، وتحليل استخدام الموقع، والمساعدة في جهودنا التسويقية.
+            </p>
+            <div class="arb-flex arb-flex-col arb-gap-2" data-currency-processed="true">
+              <button class="arb-btn arb-min-w-xxl arb-btn-md arb-btn-primary arb-btn-wide arb-btn-outline" data-currency-processed="true">
+                رفض</button><button class="arb-btn arb-min-w-xxl arb-btn-md arb-btn-primary arb-btn-wide" data-currency-processed="true">
+                قبول
+              </button>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
